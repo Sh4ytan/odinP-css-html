@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(226, 220, 211);
+    font-family: Helvetica, sans-serif;
+}
+
+header {
+    background-color: rgb(59, 44, 44);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 40px;
+    text-align: center; text-transform: uppercase;    
+    color: #FFF;
+}
+
+.container1 {
+    width: 90%;
+    margin: 0 auto;
+}
+
+section {
+    float: left;
+    width: 70%;
+    margin-bottom: 100px;
+}
+
+aside {
+    float: right;
+    width: 25%;
+}
+
+footer {
+    background-color: rgb(114, 174, 214);
+    clear:both;
+    padding: 50px 0;
+    text-align: center;
+}
